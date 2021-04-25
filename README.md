@@ -1,11 +1,11 @@
 # go-camp homeworks / Go训练营作业
 
 ## Homework 1
-运行作业并查看抛出的error，请
+运行作业并查看抛出的error，请下载代码后
 ```
 cd homework1
 ```
-然后，运行
+然后用如下命令运行
 ```
 go run homework1.go
 ```
